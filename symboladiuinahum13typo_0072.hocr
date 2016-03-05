@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./symboladiuinahum13typo_0072.png"; bbox 0 0 2027 3411; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 442 163 1928 231">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 442 163 1928 231">
+     <span class='ocr_line' id='line_1_1' title="bbox 442 163 1928 231; baseline 0.003 -20"><span class='ocrx_word' id='word_1_1' title='bbox 442 172 563 231; x_wconf 17' lang='lat' dir='ltr'>a„</span> <span class='ocrx_word' id='word_1_2' title='bbox 846 163 1550 211; x_wconf 73' lang='lat' dir='ltr'>HIEROGRAPHIA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1878 182 1928 217; x_wconf 66' lang='grc' dir='ltr'>ιε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 578 1279 1991 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 492 1248 1991 1432">
+     <span class='ocr_line' id='line_1_2' title="bbox 578 1279 1991 1372; baseline 0.003 -41.771"><span class='ocrx_word' id='word_1_4' title='bbox 578 1286 1113 1370; x_wconf 41' lang='lat' dir='ltr'>171&amp;mewa</span> <span class='ocrx_word' id='word_1_5' title='bbox 1236 1286 1501 1349; x_wconf 69' lang='lat' dir='ltr'>pbomusm</span> <span class='ocrx_word' id='word_1_6' title='bbox 1486 1291 1948 1372; x_wconf 56' lang='lat' dir='ltr'>[Qfflmgmm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1988 1279 1991 1284; x_wconf 64' lang='lat'><em>„</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1260 1353 1990 1432; baseline 0.004 -30"><span class='ocrx_word' id='word_1_8' title='bbox 1260 1353 1498 1425; x_wconf 61' lang='lat' dir='ltr'>etjmtabm</span> <span class='ocrx_word' id='word_1_9' title='bbox 1531 1364 1772 1405; x_wconf 60' lang='lat' dir='ltr'><em>Dabam</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1986 1362 1990 1432; x_wconf 57' lang='lat' dir='ltr'><strong>ff</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 385 230 2019 3001">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 385 230 2019 3001">
+     <span class='ocr_line' id='line_1_4' title="bbox 385 230 2019 3001; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 385 230 2019 3001; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
